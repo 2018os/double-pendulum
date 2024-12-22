@@ -1,0 +1,4 @@
+- 개발 언어: html, javascript, Canvas API
+- Chat GPT 활용
+- 실행 방법: 압축 해제 후 html 파일 실행
+- 코드 수정으로 원의 크기, 선 두께 등 자유롭게 변경 가능
